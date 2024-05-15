@@ -1,7 +1,6 @@
 % programme to calculate and display the number of bacteria presented 
 % in each culture medium 
 % from the beginning until the end of 48 hours
-% group 7
 
 y = 0; % to start the menu
 load train % prepare to blow the whistle
